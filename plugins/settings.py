@@ -21,7 +21,7 @@ async def settings(client, query):
     primary_db = getattr(client, 'primary_db_channel', 'Not set')
     
     msg = (
-        f"<blockquote>✦ sᴇᴛᴛɪɴɢs ᴏғ @{client.username}</blockquote>\n"
+        f"<blockquote>✦ sᴇᴛᴛɪɴɢs ᴏғ @{client.me.username}</blockquote>\n"
         f"›› **ꜰꜱᴜʙ ᴄʜᴀɴɴᴇʟs:** `{total_fsub}` "
         f"(ʀᴇǫᴜᴇsᴛ: {request_enabled}, ᴛɪᴍᴇʀ: {timer_enabled})\n"
         f"›› **ᴅʙ ᴄʜᴀɴɴᴇʟs:** `{total_db_channels}` (ᴘʀɪᴍᴀʀʏ: `{primary_db}`)\n"
@@ -60,7 +60,7 @@ async def settings_page_2(client, query):
     primary_db = getattr(client, 'primary_db_channel', 'Not set')
     
     msg = (
-        f"<blockquote>✦ sᴇᴛᴛɪɴɢs ᴏғ @{client.username}</blockquote>\n"
+        f"<blockquote>✦ sᴇᴛᴛɪɴɢs ᴏғ @{client.me.username}</blockquote>\n"
         f"›› **ꜰsᴜʙ ᴄʜᴀɴɴᴇʟs:** `{total_fsub}` "
         f"(ʀᴇǫᴜᴇsᴛ: {request_enabled}, ᴛɪᴍᴇʀ: {timer_enabled})\n"
         f"›› **ᴅʙ ᴄʜᴀɴɴᴇʟs:** `{total_db_channels}` (ᴘʀɪᴍᴀʀʏ: `{primary_db}`)\n"
