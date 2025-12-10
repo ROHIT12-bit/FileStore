@@ -40,15 +40,15 @@ PROTECT = True
 
 # Messages Configuration
 MESSAGES = {
-    "START": "<blockquote>𝖆ʀᴀ 𝖆ʀᴀ {mention}</blockquote>
+    "START": """<blockquote>𝘼𝙍𝘼 𝘼𝙍𝘼 {mention}</blockquote>
 <blockquote> ɪ'ᴍ ᴀ ꜰɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ ʜᴇʀᴇ ᴛᴏ ᴏʀɢᴀɴɪᴢᴇ, sᴀᴠᴇ, ᴀɴᴅ sʜᴀʀᴇ ʏᴏᴜʀ ꜰᴀᴠᴏʀɪᴛᴇ ꜰɪʟᴇs ᴡɪᴛʜ ʏᴏᴜʀ sᴘᴇᴄɪᴀʟ ᴄʜᴀɴɴᴇʟ</blockquote>
-<blockquote>✦ <a href="https://t.me/Astro_Bots">𝗔𝗦𝗧𝗥𝗢 𝗕𝗢𝗧𝗦</a></blockquote>",
-    "FSUB": "<b><blockquote>⚠️ Hᴇʏ, {mention} ×</blockquote>
+<blockquote>✦ <a href="https://t.me/anime_xyz_offical">ᴀɴɪᴍᴇ xʏᴢ</a></blockquote>""",
+    "FSUB": """<b><blockquote>⚠️ Hᴇʏ, {mention} ×</blockquote>
 Yᴏᴜ ʜᴀᴠᴇɴ'ᴛ ᴊᴏɪɴᴇᴅ {count}/{total} ᴄʜᴀɴɴᴇʟs ʏᴇᴛ. Pʟᴇᴀsᴇ ᴊᴏɪɴ ᴛʜᴇ ᴄʜᴀɴɴᴇʟs ᴘʀᴏᴠɪᴅᴇᴅ ʙᴇʟᴏᴡ, ᴛʜᴇɴ ᴛʀʏ ᴀɢᴀɪɴ.. !
 
-<blockquote>›› ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ:  <a href="https://t.me/Astro_Bots">𝗔𝗦𝗧𝗥𝗢 𝗕𝗢𝗧𝗦</a></blockquote>
+<blockquote>›› ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ:  <a href="https://t.me/anime_xyz_offical">ᴀɴɪᴍᴇ xʏᴢ</a></blockquote>
 
-❗Fᴀᴄɪɴɢ ᴘʀᴏʙʟᴇᴍs, ᴅᴍ @RioShin</b>",
+❗Fᴀᴄɪɴɢ ᴘʀᴏʙʟᴇᴍs, ᴅᴍ @RioShin</b>""",
     "ABOUT": "<b>›› ғᴏʀ ᴍᴏʀᴇ: @Nova_Flix \n <blockquote expandable>›› ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/codeflix_bots'>Cʟɪᴄᴋ ʜᴇʀᴇ</a> \n›› ᴏᴡɴᴇʀ: @ProYato\n›› ʟᴀɴɢᴜᴀɢᴇ: <a href='https://docs.python.org/3/'>Pʏᴛʜᴏɴ 3</a> \n›› ʟɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ ᴠ2</a> \n›› ᴅᴀᴛᴀʙᴀsᴇ: <a href='https://www.mongodb.com/docs/'>Mᴏɴɢᴏ ᴅʙ</a> \n›› ᴅᴇᴠᴇʟᴏᴘᴇʀ: @cosmic_freak</b></blockquote>",
     "REPLY": "<b>For More Join - @Hanime_Arena</b>",
     "SHORT_MSG": "<b>📊 ʜᴇʏ {first}, \n\n‼️ ɢᴇᴛ ᴀʟʟ ꜰɪʟᴇꜱ ɪɴ ᴀ ꜱɪɴɢʟᴇ ʟɪɴᴋ ‼️\n\n ⌯ ʏᴏᴜʀ ʟɪɴᴋ ɪꜱ ʀᴇᴀᴅʏ, ᴋɪɴᴅʟʏ ᴄʟɪᴄᴋ ᴏɴ ᴏᴘᴇɴ ʟɪɴᴋ ʙᴜᴛᴛᴏɴ..</b>",
