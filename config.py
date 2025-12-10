@@ -40,7 +40,7 @@ PROTECT = True
 
 # Messages Configuration
 MESSAGES = {
-    "START": """<blockquote>𝘼𝙍𝘼 𝘼𝙍𝘼 {mention}</blockquote>
+    "START": """<blockquote>ᴀʀᴀ ᴀʀᴀ {mention}</blockquote>
 <blockquote> ɪ'ᴍ ᴀ ꜰɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ ʜᴇʀᴇ ᴛᴏ ᴏʀɢᴀɴɪᴢᴇ, sᴀᴠᴇ, ᴀɴᴅ sʜᴀʀᴇ ʏᴏᴜʀ ꜰᴀᴠᴏʀɪᴛᴇ ꜰɪʟᴇs ᴡɪᴛʜ ʏᴏᴜʀ sᴘᴇᴄɪᴀʟ ᴄʜᴀɴɴᴇʟ</blockquote>
 <blockquote>✦ <a href="https://t.me/anime_xyz_offical">ᴀɴɪᴍᴇ xʏᴢ</a></blockquote>""",
     "FSUB": """<b><blockquote>⚠️ Hᴇʏ, {mention} ×</blockquote>
@@ -49,13 +49,13 @@ Yᴏᴜ ʜᴀᴠᴇɴ'ᴛ ᴊᴏɪɴᴇᴅ {count}/{total} ᴄʜᴀɴɴᴇʟs ʏ
 <blockquote>›› ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ:  <a href="https://t.me/anime_xyz_offical">ᴀɴɪᴍᴇ xʏᴢ</a></blockquote>
 
 ❗Fᴀᴄɪɴɢ ᴘʀᴏʙʟᴇᴍs, ᴅᴍ @RioShin</b>""",
-    "ABOUT": "<b>›› ғᴏʀ ᴍᴏʀᴇ: @Nova_Flix \n <blockquote expandable>›› ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/codeflix_bots'>Cʟɪᴄᴋ ʜᴇʀᴇ</a> \n›› ᴏᴡɴᴇʀ: @ProYato\n›› ʟᴀɴɢᴜᴀɢᴇ: <a href='https://docs.python.org/3/'>Pʏᴛʜᴏɴ 3</a> \n›› ʟɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ ᴠ2</a> \n›› ᴅᴀᴛᴀʙᴀsᴇ: <a href='https://www.mongodb.com/docs/'>Mᴏɴɢᴏ ᴅʙ</a> \n›› ᴅᴇᴠᴇʟᴏᴘᴇʀ: @cosmic_freak</b></blockquote>",
-    "REPLY": "<b>For More Join - @Hanime_Arena</b>",
+    "ABOUT": "<b>›› ғᴏʀ ᴍᴏʀᴇ: @anime_xyz_offical \n <blockquote expandable>›› ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/anime_xyz_offical'>Cʟɪᴄᴋ ʜᴇʀᴇ</a> \n›› ᴏᴡɴᴇʀ: @RioShin\n›› ʟᴀɴɢᴜᴀɢᴇ: <a href='https://docs.python.org/3/'>Pʏᴛʜᴏɴ 3</a> \n›› ʟɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ ᴠ2</a> \n›› ᴅᴀᴛᴀʙᴀsᴇ: <a href='https://www.mongodb.com/docs/'>Mᴏɴɢᴏ ᴅʙ</a> \n›› ᴅᴇᴠᴇʟᴏᴘᴇʀ: @RioShin</b></blockquote>",
+    "REPLY": "<b>For More Join - @anime_xyz_offical</b>",
     "SHORT_MSG": "<b>📊 ʜᴇʏ {first}, \n\n‼️ ɢᴇᴛ ᴀʟʟ ꜰɪʟᴇꜱ ɪɴ ᴀ ꜱɪɴɢʟᴇ ʟɪɴᴋ ‼️\n\n ⌯ ʏᴏᴜʀ ʟɪɴᴋ ɪꜱ ʀᴇᴀᴅʏ, ᴋɪɴᴅʟʏ ᴄʟɪᴄᴋ ᴏɴ ᴏᴘᴇɴ ʟɪɴᴋ ʙᴜᴛᴛᴏɴ..</b>",
-    "START_PHOTO": "https://graph.org/file/510affa3d4b6c911c12e3.jpg",
-    "FSUB_PHOTO": "https://telegra.ph/file/7a16ef7abae23bd238c82-b8fbdcb05422d71974.jpg",
-    "SHORT_PIC": "https://telegra.ph/file/7a16ef7abae23bd238c82-b8fbdcb05422d71974.jpg",
-    "SHORT": "https://telegra.ph/file/8aaf4df8c138c6685dcee-05d3b183d4978ec347.jpg"
+    "START_PHOTO": "https://i.rj1.dev/lGdar.png",
+    "FSUB_PHOTO": "https://i.rj1.dev/lGdar.png",
+    "SHORT_PIC": "https://i.rj1.dev/lGdar.png",
+    "SHORT": "https://i.rj1.dev/lGdar.png"
 }
 
 def LOGGER(name: str, client_name: str) -> logging.Logger:
